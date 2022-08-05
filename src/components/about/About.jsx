@@ -20,7 +20,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>6 months developing Web Apps</small>
+              <small>9 months developing Web Apps</small>
             </article>
             <article className="about__card">
               <GiWireframeGlobe className='about__icon' />
