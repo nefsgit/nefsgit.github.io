@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.c60ed2ba.css",
-    "main.js": "/static/js/main.92fe0798.js",
+    "main.js": "/static/js/main.73f40fbb.js",
     "static/media/sate_screen.png": "/static/media/sate_screen.1dc644de397c8eeef34e.png",
     "static/media/self_new.jpg": "/static/media/self_new.a8a71d9408b0811dc5e4.jpg",
     "static/media/wmp_screen.png": "/static/media/wmp_screen.fed97b6b82ee6726aed7.png",
     "static/media/jasma_screen.png": "/static/media/jasma_screen.de0b97760f0a8c7604d2.png",
     "static/media/onlineshop_screen2.png": "/static/media/onlineshop_screen2.f7c284fad713778ebd86.png",
     "static/media/trocaaqui_screen.png": "/static/media/trocaaqui_screen.86f35a140b07f6de4669.png",
-    "static/media/CV-JoaoBorges.pdf": "/static/media/CV-JoaoBorges.e223d777a8ce7ef99eef.pdf",
+    "static/media/CV-JoaoBorges.pdf": "/static/media/CV-JoaoBorges.44bfacdf4de3411883c2.pdf",
     "static/media/me_three.jpg": "/static/media/me_three.7d3cd92e7c41c535e148.jpg",
     "index.html": "/index.html",
     "main.c60ed2ba.css.map": "/static/css/main.c60ed2ba.css.map",
-    "main.92fe0798.js.map": "/static/js/main.92fe0798.js.map"
+    "main.73f40fbb.js.map": "/static/js/main.73f40fbb.js.map"
   },
   "entrypoints": [
     "static/css/main.c60ed2ba.css",
-    "static/js/main.92fe0798.js"
+    "static/js/main.73f40fbb.js"
   ]
 }
