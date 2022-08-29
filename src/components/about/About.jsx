@@ -3,8 +3,12 @@ import './about.css';
 import Me from '../../assets/me_three.jpg';
 import { FaAward, FaLanguage } from 'react-icons/fa';
 import { GiWireframeGlobe } from 'react-icons/gi';
+import moment from 'moment';
 
 const About = () => {
+  
+  const timePassed = moment('2021-11-01').fromNow(true).replace(/\b[a-z]/, match => match.toUpperCase());
+  
   return (
     <section id='about'>
       <h2>About me</h2>
@@ -20,7 +24,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>9 months developing Web Apps</small>
+              <small>{timePassed} developing Web Apps</small>
             </article>
             <article className="about__card">
               <GiWireframeGlobe className='about__icon' />
